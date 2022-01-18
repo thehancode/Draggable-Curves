@@ -8,8 +8,8 @@ Demo of cubic splines and bezier curves with draggable control points
 
 ` python3 main-bezier.py   `
 
-![spline](https://raw.githubusercontent.com/jestorDev/Draggable-Curves/main/bezie.gif){:height="50%" width="50%"}
+ <img width="400" alt="bezier" src="https://raw.githubusercontent.com/jestorDev/Draggable-Curves/main/bezie.gif">
 
 ` python main-splines.py  `
 
-![spline](https://raw.githubusercontent.com/jestorDev/Draggable-Curves/main/spline.gif){:height="50%" width="50%"}
+ <img width="400" alt="splines" src="https://raw.githubusercontent.com/jestorDev/Draggable-Curves/main/spline.gif">
